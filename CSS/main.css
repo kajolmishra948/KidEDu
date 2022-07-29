@@ -1,0 +1,886 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-size: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    transition: 0.7s;
+}
+
+div
+{
+    display: inline-block;
+    vertical-align: middle;
+    width: 100%;
+}
+.website-gap
+{
+    margin-left: 7%;
+    width: 84%;
+}
+.nav-main
+{
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+.navbar
+{
+    /* background: #b2b2b2; */
+}
+.logo
+{
+    font-size: 40px;
+    color: white;
+    font-weight: 500px;
+    width: 20%;
+}
+.dot
+{
+    font-size: 40px;
+    color: #dc3545;
+    font-weight: 500px;
+}
+.addressdiv
+{
+    width: 50%;
+    margin-left: 30%;
+}
+.address 
+{
+    width: 50%;
+}
+.address .icon i
+{
+    font-size: 32px;
+}
+.text-yellow
+{
+    color:#fdb62f;;
+}
+ .address .icon
+{
+    width: 15%;
+}
+.address-text
+{
+    width: 85%;
+}
+.text-red
+{
+   color: red;
+}
+.address-text
+{
+    font-size: 14px;
+    color: white;
+}
+.menu
+{
+    width: 50%;
+}
+.social-icon
+{
+    width: 20%;
+    margin-left: 30%;
+}
+.menu a
+{
+    float: left;
+    text-decoration: none;
+    width: 16.66%;
+    font-size: 14px;
+    text-align: center;
+    color: black;
+    
+}
+.social-icon .icon
+{
+    width: 33.33%;
+}
+.social-icon .icon i
+{
+    font-size: 16px;
+}
+.text-blue
+{
+    color: #16c3b0;
+}
+.text-green
+{
+    color: #71bc42;
+}
+.nav-menu
+{
+    padding-top: 35px;
+    padding-bottom: 35px;
+    background-color: white;
+    border-radius: 43px;
+}
+/* 8-8-20 */
+.banner
+{
+    /* background-color:#b2b2b2;  */
+}
+.text-md
+{
+    font-size: 20px;
+}
+.text-lg
+{
+    font-size: 40px;
+}
+.text-sm
+{
+    font-size: 14px;
+}
+.text-lg2
+{
+    font-size: 30px;
+}
+.indie
+{
+    font-family:"Indie Flower", cursive !important;
+}
+.intro
+{
+    font-weight: bold;
+    color: white;
+
+}
+.more
+{
+    color: white;
+}
+.banner .website-gap div
+{
+    margin-top: 10px;
+}
+.banner .intro
+{
+    width: 30%;
+}
+ .btn button
+{
+   
+    padding: 23px;
+    outline: none;
+    border: none;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    
+}
+.banner .website-gap .btn
+{
+    margin-top: 50px;
+}
+.banner
+{
+    padding: 100px 0px;
+}
+.btn-red:hover
+{
+    background-color: #dc3545;
+    cursor: pointer;
+}
+.section-image
+{
+    width: 50%;
+}
+.section-image img
+{
+    width: 100%;
+}
+.moreinfo-text
+{
+    width: 40%;
+    margin-left: 10%;
+    vertical-align: top;
+    
+}
+.std-spacing
+{
+    background-color: #f6f5f5;
+    margin-top: 10px 0px;
+    padding: 100px 0px;
+}
+.section-site
+{
+    padding: 100px 0px;
+}
+.btn-yellow:hover
+{
+    background-color:#fdb62f;
+    cursor: pointer;
+}
+.btn-yellow
+{
+    background-color: #ffc107;
+}
+.moreinfo-text div
+{
+    margin-top: 10px;
+}
+.moreinfo-text .btn
+{
+    margin-top: 50px;
+}
+
+/* 13-08-2020 */
+.gallery
+{
+    background-color: #17a2b8;  
+}
+.gallery-top
+{
+    text-align: center;    
+}
+.text-lg3
+{
+    font-size: 35px;
+    font-weight: 400;
+}
+.gallery-bottom
+{
+    margin-top: 5%;
+    margin-left: 6%;
+}
+.gallery-bottom .gal
+{
+    width: 28%;
+    background-color: white;
+    /* padding-top: 3%; */
+    padding-bottom: 4%;
+    text-align: center;
+    border-radius: 10px;   
+}
+.icon img
+{
+    padding:40px 0px;
+}
+.gal-head span
+{
+    font-size: 20px;
+    /* padding-top: 15px; */
+    font-weight: 400;
+}
+.diff1
+{
+    
+    color: #16c3b0;
+}
+.diff2
+{
+    color:#71bc42;
+}
+.diff3
+{
+    color:#dc3545;
+}
+.btn1 button
+{
+    margin-top: 15px;
+    padding: 8px 22px;
+    border: none;
+    outline: none;
+    border-top-left-radius: 32px;
+    border-bottom-right-radius: 32px;      
+}
+.text-md1
+{
+    font-size: 18px;
+    font-weight: 400;
+    
+}
+.btn-red
+{
+    background-color: #ee192e;
+    color: white;
+}
+
+.gal-text
+{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.diff
+{
+    margin-left: 3%;
+}
+.btn-green
+{
+    background-color: #70ce36;
+    color: black;
+}
+.btn-green:hover
+{
+    background-color: #60a038;
+    cursor: pointer;
+}
+
+/* 9-08-20 */
+
+.std-spacing
+{
+    background-color: #f6f5f5;
+    margin-top: 10px 0px;
+    padding: 100px 0px;
+}
+.contact-header div
+{
+    text-align: center;
+
+}
+.contact-header
+{
+    width: 70%;
+    margin-left: 15%;
+}
+.form-group
+{
+    margin-top:20px;
+}
+.contact-form
+{
+    width: 67.5%;
+}
+.contact-main
+{
+   margin-top: 5%;
+}
+.addr
+{
+    width: 27.5%;
+    margin-left: 5%;
+    background-color: white; 
+    padding: 67px 0px;   
+    /* margin-top: 5%; */
+     vertical-align: top;
+     margin-top: 2%;
+}
+.inputdiv-half
+{
+    width: 47.5%;
+}
+.ml-5
+{
+    margin-left: 5%;
+}
+.my-form-control
+{
+    width: 100%;
+    padding: 25px 20px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border: 1px solid lightgrey;
+}
+.my-form-control:hover
+{
+    border: 1px solid black;
+}
+.my-form-control:focus
+{
+    border: 1px solid black;
+}
+.btn2 button
+{
+    padding: 15px 12%;
+    border-radius: 30px;
+    outline: none;
+    border: none;   
+}
+.text-lg4
+{
+    font-size: 18px;
+    font-weight: 200;
+    width: 75%;
+}
+.info-address
+{
+    margin-top: 25px;
+    margin-left: 15%;   
+}
+/* 16-08-2020 */
+.package
+{
+    width: 30%;
+    background-color: red;
+    position: relative;
+    box-sizing: border-box;
+}
+.package .p-logo
+{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    /* border: 2px solid black; */
+    text-align: center;
+    background-color: red;
+    position: absolute;
+    left: 50%;
+    top: -35px;
+    transform:translate(-50%,0) ;
+
+}
+.p-logo i
+{
+    font-size: 40px;
+    margin-top: 15px;
+    color: white;
+}
+.package p
+{
+    margin-bottom: 50px; 
+    color: white;
+    padding: 20px;
+    text-align:center;
+    /* font-weight: 400;  */
+    font-size: 18px;
+   
+}
+
+/* sudo-class
+it means without changing our css how we can change the
+color */
+.package:nth-of-type(1)
+{
+    background-color: #fd4d40;
+}
+
+.package:nth-of-type(1) .p-logo
+{
+    background-color: #fd4d40;
+}
+
+
+
+
+.package:nth-of-type(2)
+{
+    background-color: #fdb62f;
+}
+
+.package:nth-of-type(2) .p-logo
+{
+    background-color: #fdb62f;
+}
+
+
+.package:nth-of-type(3)
+{
+    background-color:#16c3b0;
+}
+
+.package:nth-of-type(3) .p-logo
+{
+    background-color: #16c3b0;
+}
+
+.text-lg5
+{
+    margin-top: 80px;
+    text-align: center;
+    color: white;
+}
+
+/* 19-08-2020 */
+.container
+{
+    width: 30%;
+}
+.con
+{
+    margin-top: 10px;
+}
+.container .c-logo
+{
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    position: relative;
+}
+.c-logo2
+{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    border: 3px solid white; 
+    margin-top: 8px;
+    margin-bottom: 9px;
+    margin-left: 7px;
+    margin-right: 7px;
+}
+.container .col
+{
+    background-color:#16c3b0;
+}
+.container .col1
+{
+    background-color:#fd4d40;
+}
+ .price
+{
+    position: absolute;
+    top: 30%;
+    padding-left: 13px;
+    font-weight: 400;
+    font-size: 26px;
+} 
+
+h3{
+    font-size: 22px;
+    font-weight: 350;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+li
+{
+    font-size: 18px;
+    margin-bottom: 15px;
+    margin-left: 20px; 
+} 
+.btn3 button
+{
+    margin-top: 60px;
+    padding: 8px 22px;
+    border: none;
+    outline: none;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;      
+}
+/* 21-08-2020 */
+.read
+{
+    background-color: #fd4d40;
+    width: 60%;
+    margin-left: 22%;
+    margin-top: 5%;
+      
+}
+.color 
+{
+    color: white;
+}
+.read-left
+{
+    width: 20%;
+    vertical-align: top;
+    padding-top: 30px;
+}
+.read-right
+{
+    width: 70%;
+    padding-top: 25px;
+    padding-bottom: 50px;
+}
+.down
+{
+    padding: 15px 0px;
+    font-weight: 200;
+}
+.count
+{
+    margin-top: 5%;
+    /* background-color: yellow; */
+    width: 60%;
+    margin-left: 24%;
+}
+.count1
+{
+    width: 21.25%;
+}
+.diff4
+{
+    color: #fdb62f;;
+}
+.bottom
+{
+    padding-top: 8px;
+    font-weight: 400;
+}
+.text-lg6
+{
+    font-size: 35px;
+}
+.head
+{
+    text-align: center;
+}
+/* 21-08-2020 */
+.started
+{
+    background-color: #ffc107;
+}
+.started-info
+{
+    width: 90%;
+    margin-left: 8%;
+    padding-top: 4%;
+    padding-bottom: 4%;
+}
+.star-left
+{
+    width: 42%;
+    
+}
+.star-right
+{
+    width: 23%;
+    margin-left: 35%; 
+}
+.btn4 button
+{
+   
+    padding:15px 50px;
+    outline: none;
+    border: none;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;    
+    font-size: 18px;
+    
+}
+
+/* 22-08-2020 */
+
+.navigation
+{
+    background-color: #343a40;;
+}
+.main-navigation
+{
+    width: 80%;
+    /* margin-top: 10%; */
+    /* margin-bottom: 10%; */
+    margin-left: 8%;
+   
+}
+.left-nav
+{
+    width: 38%;
+    margin-top: 10%;
+}
+.heading
+{
+    color:#fd4d40; ;
+}
+.mail
+{
+    width: 80%;
+    margin-top: 25px;
+}
+.Email
+{
+    width:82%;   
+}
+.btn5
+{
+    width:15%;
+    margin-left:3%; 
+}
+.btn5 button
+{
+    padding: 15px 25px;
+    border-radius: 30px;
+    outline: none;
+    border: none;   
+}
+.head-info
+{
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+.my-form-control1
+{
+    /* width: 100%; */
+    padding: 17px 80px 17px 10px;
+    box-sizing: border-box;
+    border-radius: 8px;
+    border: 1px solid lightgrey;
+}
+.right-nav
+{
+    width: 35%;
+    margin-left:27%; 
+    
+}
+.right-left
+{
+    width: 40%;
+    margin-top: 10%;
+}
+.right-right
+{
+    width: 40%;
+    margin-left: 20%;
+    margin-top: 10%;
+}
+ .navigation-item
+{
+    margin-top: 7%;
+} 
+.left-menuitem, .right-menuitem
+{
+    margin-top: 10%;
+}
+/* 23-08-2020 */
+.bottom-navigation
+{
+    margin-top:10%;
+    width: 100%;
+    
+}
+.border
+{
+    border-top: 1px solid white;
+
+    padding-top: 5%;
+    text-align: center;
+    padding-bottom: 10%;
+}
+/* .nav-bottom
+{
+ margin-left: 18%;
+ padding-top: 15%;
+} */
+
+/* 20-09-2020 */
+
+.navbar{
+    position: fixed;
+    z-index: 1;
+}
+.banner{
+    margin-top: 210px;
+}
+
+.hide, .hide *{
+    height: 0;
+    padding: 0;
+    margin: 0;
+    font-size: 0;
+}
+
+.b-white
+{
+    background-color: white;
+}
+.bg{
+    background-image: url("../IMAGES/kid_transparent.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+    background-color: #b2b2b2;
+}
+ section{
+    margin: 15px 10%;
+ }
+ h1{
+    font-size: 40px;
+    text-align: center;
+}
+p{
+    font-size: 30px;
+    font-weight: 500;
+    text-align: center;
+    color: palevioletred;
+}
+
+.details span,h6,i{
+    font-size: 14px;
+    /* margin-bottom: 20px; */
+}
+
+/* .course img{
+    width: 100%;
+    height: 60%;
+    background-size: cover;
+    background-position: center;
+} */
+.course-box{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(320px,1fr));
+    grid-gap: 1rem;
+    margin-top: 50px;
+
+}
+.course .details{
+    padding: 15px;
+}
+
+.course .details i{
+    color: #fdb62f;
+    
+}
+
+#course-inner{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 8vh;
+}
+#course-inner .overview{
+    width: 70%;
+}
+#course-inner .overview .couse-img{
+    
+    height: 60vh;
+    object-fit: cover;
+}
+.course-head{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+.course-head .c-name{
+    width: 70%;
+}
+.course-head .c-name .star{
+    margin: 6px 0;
+}
+
+.course-head .c-name .star i{
+    color: #fdb62f;
+}
+.enroll{
+    width: 300px;
+    padding: 0 30px 30px 30px;
+    border-radius: 11px;
+    box-shadow: 0px 20px 40px 0;
+    margin-left: 5%;
+
+}
+.enroll h3{
+    padding-bottom: 10px;
+    font-weight: 700;
+}
+
+.enroll p{
+    font-size: 15px;
+    color: #64626e;
+    margin: 15px 0;
+    text-align: start;
+    
+}
+
+.enroll p i{
+    color: #654ce4;
+    font-weight: 500;
+    margin-right: 18px;
+    width: 16px;
+    height: 16px;
+    line-height: 16px;
+    text-align: center;
+}
+.enroll .enroll-btn{
+    padding: 25px 0 20px 0;
+    margin: auto;
+    text-align: center;
+}
+/* .enroll .enroll-btn a .blue{
+    text-decoration: none;
+    font-size: .8rem;
+    padding: 13px 45px;
+    border-radius: 5px;
+    font-weight: 600;
+    color: #fff;
+} */
+
+
